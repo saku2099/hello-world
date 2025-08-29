@@ -4,4 +4,7 @@
 2. joku 2
 3. joku 3
 
-   [moikka]
+   | Moi  | Hei |
+| ------------- | ------------- |
+| moi  | hei |
+| hei  | moi  |
