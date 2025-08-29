@@ -4,7 +4,7 @@
 2. joku 2
 3. joku 3
 
-   | Moi  | Hei |
+| Moi  | Hei |
 | ------------- | ------------- |
 | moi  | hei |
 | hei  | moi  |
